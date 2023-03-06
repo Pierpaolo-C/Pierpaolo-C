@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning algorithms and Web3 dev<br>⚡ "How can you know something doesn’t work if you haven’t tried it?"
+🌱 I’m currently learning algorithms, Full-Stack dev and Web3 dev<br>⚡ "How can you know something doesn’t work if you haven’t tried it?"
 
 
 ## 🌐 Socials:
